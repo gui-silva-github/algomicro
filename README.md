@@ -24,7 +24,7 @@ Link do Jogo: https://scratch.mit.edu/projects/1150414691/
 
 ### 📱 3. Projeto em App Inventor – P2
 
-Aplicativo interativo com o tema **Indústria 4.0**, desenvolvido no MIT App Inventor com **4 funcionalidades**: Machine Learning, ChatBot, Sensor de Luminosidade e Sensor de Proximidade.
+Aplicativo interativo com o tema **Indústria 4.0/5.0**, desenvolvido no MIT App Inventor com **4 funcionalidades**: Machine Learning, ChatBot, Sensor de Luminosidade e Sensor de Proximidade.
 
 [MIT App Inventor](https://ai2.appinventor.mit.edu/)
 
